@@ -1,1 +1,13 @@
-# NLP-EX-02
+# NLP-EX-02 Working with Text Data
+
+AIM:
+
+
+ALGORITHM:
+
+
+PROGRAM:
+
+
+
+RESULT:
